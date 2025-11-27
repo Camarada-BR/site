@@ -92,8 +92,6 @@ $motivos = [
         <ul>
             <li><a href="main.php">Cadastrar</a></li>
             <li><a href="list.php">Ver Lista</a></li>
-            <li><a href="">Visite Nossa Paroquia</a></li>
-            <li><a href="">Saiba Mais</a></li>
         </ul>
     </nav>
 
